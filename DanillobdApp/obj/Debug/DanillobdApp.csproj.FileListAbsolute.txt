@@ -1,0 +1,40 @@
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\DanillobdApp.exe.config
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\DanillobdApp.exe
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\DanillobdApp.pdb
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\MySql.Data.dll
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\Google.Protobuf.dll
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\ZstdNet.dll
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\BouncyCastle.Crypto.dll
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\Ubiety.Dns.Core.dll
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\System.Buffers.dll
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\K4os.Compression.LZ4.dll
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\K4os.Hash.xxHash.dll
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\bin\Debug\MySql.Data.xml
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\obj\Debug\DanillobdApp.csproj.AssemblyReference.cache
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\obj\Debug\DanillobdApp.csproj.SuggestedBindingRedirects.cache
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\obj\Debug\DanillobdApp.exe.config
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\obj\Debug\DanillobdApp.csproj.CoreCompileInputs.cache
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\obj\Debug\DanillobdApp.csproj.CopyComplete
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\obj\Debug\DanillobdApp.exe
+T:\2 MODULAR\DANILLO XAVIER\DS\DanillobdApp\obj\Debug\DanillobdApp.pdb
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\DanillobdApp.exe.config
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\DanillobdApp.exe
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\DanillobdApp.pdb
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\MySql.Data.dll
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\Google.Protobuf.dll
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\ZstdNet.dll
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\BouncyCastle.Crypto.dll
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\Ubiety.Dns.Core.dll
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\System.Buffers.dll
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\K4os.Compression.LZ4.dll
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\K4os.Hash.xxHash.dll
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\bin\Debug\MySql.Data.xml
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\obj\Debug\DanillobdApp.csproj.AssemblyReference.cache
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\obj\Debug\DanillobdApp.csproj.SuggestedBindingRedirects.cache
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\obj\Debug\DanillobdApp.exe.config
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\obj\Debug\DanillobdApp.csproj.CoreCompileInputs.cache
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\obj\Debug\DanillobdApp.csproj.CopyComplete
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\obj\Debug\DanillobdApp.exe
+T:\2 MODULAR\DAVI GONZAGA FERREIRA\ASP.NET\DanillobdApp\obj\Debug\DanillobdApp.pdb
