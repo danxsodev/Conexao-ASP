@@ -16,7 +16,7 @@ namespace DanillobdApp
             var usuarioDAO = new UsuarioDAO();
             var usuario = new Usuario();
 
-            /*Console.WriteLine("Digite o nome do usuário: ");
+            Console.WriteLine("Digite o nome do usuário: ");
             string vNome = Console.ReadLine();
 
             Console.WriteLine("Digite o  cargo do usuário: ");
@@ -29,11 +29,12 @@ namespace DanillobdApp
             usuario.cargo_usuario = vCargo;
             usuario.dt_nasc = DateTime.Parse(vData);
 
-            usuario.id_usuario = 3;
-            */
-            usuario.id_usuario = 7;
+            usuario.id_usuario = 2;
 
-            usuarioDAO.Excluir(usuario);
+            
+            usuarioDAO.Insert(usuario);
+            //usuarioDAO.Atualizar(usuario);//
+            //usuarioDAO.Excluir(usuario);//
 
             MySqlConnection conexao = new MySqlConnection(ConfigurationManager.ConnectionStrings["conexao"].ConnectionString);
             conexao.Open();
